@@ -1,0 +1,2 @@
+# Automatic-Blood-Group-Recognization-Using-Machine-Learning
+he project "Automatic Blood Recognition Using Machine Learning" aims to revolutionize traditional blood analysis by leveraging advanced machine learning and computer vision techniques. This system is designed to automatically identify and classify blood components or determine blood group types from images, such as blood smears or blood type.
